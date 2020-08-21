@@ -955,3 +955,11 @@ button:focus {
     outline: none;
     border-radius: 0px;
 }
+
+iframe{
+    border: none;
+}
+
+.red-text{
+    color:#f44336;
+}
