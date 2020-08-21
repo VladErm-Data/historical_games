@@ -52,7 +52,13 @@ html {
     border-bottom: 1px solid white;
     width: 100%;
     line-height: 78px;
-    padding-left: 703px;
+}
+
+.menu-container{
+    display: block;
+    margin: 0px auto;
+    /* width: 50%; */
+    text-align: center;
 }
 
 .menu-item {
